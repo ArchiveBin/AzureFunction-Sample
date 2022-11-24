@@ -1,0 +1,2 @@
+# AzureFunction-Sample
+AzureFunction-Sample
